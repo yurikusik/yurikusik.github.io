@@ -230,7 +230,7 @@ Author: Ahmed Beheiry
 			16 - Typed Text in Home Section
 	----------------------------------------------------- */
 	$(".typed-element").typed({
-    	strings: ["Performance Tester", "Automation Tester", "Manual Tester", "Software QA Enginner", "Web Developer"],
+    	strings: ["Performance Tester", "Automation Tester", "Manual Tester", "Software QA Enginner"],
     	typeSpeed: 10,
     	loop:true,
     	backDelay: 2000
